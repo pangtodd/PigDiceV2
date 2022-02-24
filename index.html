@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="js/jquery-3.6.0.js"></script>
+  <script src="js/scripts3.js"></script>
+  <title>Pig Dice</title>
+</head>
+<body>
+  <div class = "container">
+    <img src ="img/charlette.jpeg", alt = "logo of pig">
+    <h1 id = "opener">Pig dice!</h1>
+    <br>
+    <br>
+    <div class=row>
+      <div class="col-4">
+        <div id= p1>
+          <h1>player 1</h1>
+          <h1 id="p1Score"></h1>
+        </div>
+        <div id = "p1up">
+          <img src ="img/piggy.jpeg", alt = "image of piggy bank">
+          <h3>player 1 is rolling!</h3>
+        </div>
+      </div>
+      <div class="col-4">
+        <div id= controls>
+          <h3>how to play</h3>
+          <ul>
+            <li>roll</li> 
+            <li>hit 1, go to 0</li>
+            <li>otherwise, add roll to score</li>
+            <li>pass dice to hold your score</li>
+            <li>1st to 100 wins!</li>
+          </ul>
+          <br>
+          <br>
+          <button class="throwDice">roll dice!</button>
+          <br>
+          <br>
+          <button class="switchPlayer">switch turn</button>
+          <br>
+          <br>
+          <button class="refresh">start over/refresh</button>
+        </div>
+      </div>
+      <div class="col-4">
+        <div id= p2>
+          <h1>player 2</h1>
+          <h1 id="p2Score"></h1>
+        </div>
+        <div id = "p2up">
+          <img src ="img/piggy.jpeg", alt = "image of piggy bank">
+          <h3>player 2 is rolling!</h3>
+        </div>
+      </div>
+</body>
+</html>

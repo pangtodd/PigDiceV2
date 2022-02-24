@@ -1,0 +1,46 @@
+.container {
+  margin-top: 5%
+}
+
+img {
+  float: left;
+  height: 80px;
+  width: auto;
+}
+
+#p1, #p2 {
+  text-align:center;
+  width: 90%;
+  height: auto;
+  border: solid black;
+  border-width: 1px;
+  background-color: lightslategray;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.player {
+  text-align:center;
+  width: 90%;
+  height: auto;
+  border: solid black;
+  border-width: 1px;
+  background-color: lightslategray;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.green-background {
+  text-align:center;
+  width: 90%;
+  height: auto;
+  border: solid black;
+  border-width: 1px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: rgb(151, 218, 122);
+}
+
+#p1up, #p2up {
+  display: none;
+}
