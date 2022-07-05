@@ -23,7 +23,7 @@ A website that plays the game Pig Dice with 1 to 2 players.
 * Via your terminmal, navigate to the directory you want to store my files in.
 * Clone my git hub directory by typing or cutting pasting: "git clone "https://github.com/pangtodd/PigDiceV2" into your terminal
 * open files in browswer or code editor of your choice.
-* you can also view this website [here]() or you can cut and paste this into your browser: 
+* you can also view this website [here](https://pangtodd.github.io/PigDiceV2/) or you can cut and paste this into your browser: https://pangtodd.github.io/PigDiceV2/
 
 ## Known Bugs
 * none known as of 7/4/22
