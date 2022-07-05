@@ -1,6 +1,6 @@
-# Pig Dice
+# Pig Dice (version 2)
 
-#### By Anthony Gladden, Todd Pangilinan, and Michael Shamrell
+#### By Todd Pangilina
 
 A website that plays the game Pig Dice with 1 to 2 players.
 
@@ -21,32 +21,15 @@ A website that plays the game Pig Dice with 1 to 2 players.
 
 * If you don't have git installed on your machine, follow these [instructions.](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)
 * Via your terminmal, navigate to the directory you want to store my files in.
-* Clone my git hub directory by typing or cutting pasting: "git clone https://github.com/michaelshamrell/PigDice" into your terminal
+* Clone my git hub directory by typing or cutting pasting: "git clone "https://github.com/pangtodd/PigDiceV2" into your terminal
 * open files in browswer or code editor of your choice.
-* you can also view this website [here](https://github.com/michaelshamrell/PigDice) or you can cut and paste this into your browser: https://michaelshamrel.github.io/PigDice
+* you can also view this website [here]() or you can cut and paste this into your browser: 
 
-## Tests:
-
-#### Describe: rollDice()
-
-- Test: "Function will return a random whole number between 1 and 6"
-- Code: Math.floor(Math.random() * 6) + 1 
-- Expected Output: any whole number, but must be between 1 and 6.
----
-- Test: "Function will take the user's current score. If the roll = 1, it will change the user's score to 0. If it is anything but a 1, it will add it to the user's current score.
-- code: Array: 
-- Expected output:
----
-- Test: 
-- code: 
-- expected output: 
----
 ## Known Bugs
-
-* 
-* 
+* none known as of 7/4/22
+* If you notice any errors or bugs, please email pang.todd@gmail.com
 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
-Copyright (c) Todd Pangilinan, Michael Shamrell, Anthony Gladden
+Copyright (c) Todd Pangilinan
