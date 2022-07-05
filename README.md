@@ -1,6 +1,6 @@
 # Pig Dice (version 2)
 
-#### By Todd Pangilina
+#### By Todd Pangilinan
 
 A website that plays the game Pig Dice with 1 to 2 players.
 
